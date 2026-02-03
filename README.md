@@ -229,13 +229,6 @@ Se você consegue responder isso, a query sai.
 
 ---
 
-📌 **Use esse resumo pra revisão rápida.**
-Se quiser, dá pra criar:
-- versão ultra-curta (1 página)
-- checklist de prova
-- exercícios resolvidos
-- mapa mental
-
 
 ## Concorrência, Transações, Performance e Análise
 
