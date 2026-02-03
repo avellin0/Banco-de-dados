@@ -367,9 +367,11 @@ SELECT nome,
        AVG(salario) OVER () AS media_geral
 FROM funcionarios;
 ```
+## Window Syntax
+![Diagrama Window Functions](images/windowSyntax.png)
 
 ## Diagrama de execução:
-![Diagrama Window Functions](images/windowFunctions.png)
+![Diagrama Window Functions](images/windowLevel.png)
 
 ---
 
